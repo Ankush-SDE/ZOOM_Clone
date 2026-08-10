@@ -1,0 +1,1 @@
+const connectToSocket = server(server)
