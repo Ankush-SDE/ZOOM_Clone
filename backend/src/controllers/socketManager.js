@@ -20,7 +20,7 @@ export const connectToSocket = (server) => {
 
         console.log("SOMETHING CONNECTED")
 
-        socket.on("join-call", (path) => {
+        socket.on("join-calling", (path) => {
 
             if (connections[path] === undefined) {
                 connections[path] = []
