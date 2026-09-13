@@ -4,7 +4,7 @@
   background: url("/public/background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: red;
 }
 
 .landingPageContainer nav {
