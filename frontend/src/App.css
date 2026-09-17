@@ -31,7 +31,7 @@
 .landingMainContainer {
   display: flex;
   justify-content: space-between;
-  padding-inline: 4rem;
+  padding-inline: 5rem;
   height: 80vh;
   align-items: center;
 }
